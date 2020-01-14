@@ -1,0 +1,8 @@
+VERSION BUILD=10021450
+TAG POS=1 TYPE=IMG ATTR=SRC:http://slingshot.hbwleads.net/agc/images/vdc_LB_hangupcustomer.gif
+WAIT SECONDS=1
+TAG POS=1 TYPE=A ATTR=TXT:PBLM<SP>-<SP>Number<SP>is<SP>Problem CONTENT=EVENT:MOUSEOVER
+TAG POS=1 TYPE=A ATTR=TXT:PBLM<SP>-<SP>Number<SP>is<SP>Problem
+TAG POS=1 TYPE=A ATTR=TXT:PBLM<SP>-<SP>Number<SP>is<SP>Problem
+
+				
